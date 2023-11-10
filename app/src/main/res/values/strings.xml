@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginSampleCompose</string>
+    <string name="reveal_password">Reveal password\n</string>
+    <string name="hide_password">Hide password\n</string>
+    <string name="user_field">User field\n</string>
+    <string name="login">Login\n</string>
+    <string name="pass_field">Pass field\n</string>
+</resources>
